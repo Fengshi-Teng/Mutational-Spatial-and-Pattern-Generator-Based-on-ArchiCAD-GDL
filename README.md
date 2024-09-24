@@ -1,4 +1,4 @@
-# Mutational Spatial and Pattern Generator Based on ArchiCAD
+# Mutational Spatial and Pattern Generator Based on ArchiCAD Geographic Description Language(GDL)
 
 ## Overview
 This project, **Mutational Spatial and Pattern Generator**, explores the creation of dynamic architectural patterns and spaces using ArchiCAD's GDL scripting language. It allows the generation and manipulation of spatial forms and patterns through parametric design principles, including variations in grids, shapes, and material properties.
