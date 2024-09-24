@@ -65,8 +65,8 @@ More detailed background and explanations of the design logic can be found in th
 - **functions.zip**: Additional functions used in parametric modifications.
 
 ### Documentation Files:
-- **booklet1-construction.pdf**: Background and logic for the project's construction phases [oai_citation:2,construction.pdf](file-service://file-NYQHnCAvHCrZpEevuT1z1YaZ).
-- **booklet2-study-1.pdf**, **booklet3-study-2.pdf**: In-depth exploration of spatial logic, testing, and architectural outcomes [oai_citation:1,study.pdf](file-service://file-8CC1pigOcWWRuNisvPufC0St).
+- **[booklet1-construction.pdf](https://github.com/Francis-Teng/Mutational-Spatial-and-Pattern-Generator-Based-on-ArchiCAD-GDL/blob/main/booklet1-construction.pdf)**: Background and logic for the project's construction phases.
+- **[booklet2-study-1.pdf](https://github.com/Francis-Teng/Mutational-Spatial-and-Pattern-Generator-Based-on-ArchiCAD-GDL/blob/main/booklet2-study-1.pdf)**, **[booklet3-study-2.pdf](https://github.com/Francis-Teng/Mutational-Spatial-and-Pattern-Generator-Based-on-ArchiCAD-GDL/blob/main/booklet3-study-2.pdf)**: In-depth exploration of spatial logic, testing, and architectural outcomes.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
